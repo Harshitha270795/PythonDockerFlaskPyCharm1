@@ -6,5 +6,5 @@ This project is a homework assignment - part 2 to teach how to get Pycharm setup
 # SQL Data Screenshot
 ![MySQL data](screenshots/Query.jpeg)
 
-# localhost:5000 Index - Formatted
+# localhost:5000 Index 
 ![pychartm data query](screenshots/Web.png)
